@@ -1,0 +1,8 @@
+Origin: k10repo
+Label: k10repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: k10repo - a local repository for jailbreak tweaks.

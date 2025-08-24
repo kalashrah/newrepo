@@ -1,0 +1,63 @@
+Package: com.yourcompany.macroothide
+Version: 6.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: macbook
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yourcompany.macroothide_6.0-1+debug_iphoneos-arm64e.deb
+Size: 85694
+MD5sum: 9cf457fb377be8f0bc461e0bd1ae197f
+SHA1: fa12213963d37cab1b0936eb8952f8cc985c2419
+SHA256: 87224fa363516525f09fa442ff62e09fa5adc1236e576b912a3db62618b24431
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: macbook
+Name: macroothide
+
+Package: jb.k10.k10callalert
+Version: 3.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10callalert_3.0-1+debug_iphoneos-arm64e.deb
+Size: 5768
+MD5sum: e073175b4a182c690412e465fa7c132b
+SHA1: c79c66b223e2ccf95e4ad7b54fd8e843f720249c
+SHA256: 4fba9e7bba51644ba2f8ac2e6312bf559326a37b654ac41bc9668474757341c9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: kalashrah@hotmail.com
+Name: k10callalert
+
+Package: jb.k10.k10ent
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10ent_1.0-1+debug_iphoneos-arm64e.deb
+Size: 1738
+MD5sum: 198e6b1d81609643be351ba85b3939ad
+SHA1: 55d79a4a5819f0a8338c367141213f44f79b9084
+SHA256: 2d0c783218f4433f0dedbf5b181d7e6282155ed1b2e8fe13ff0ae16226e8c221
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: kalashrah@hotmail.com
+Name: k10ent
+
+Package: jb.k10.k10node
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10node_1.0_iphoneos-arm64e.deb
+Size: 24466340
+MD5sum: b706667934482adf070754703fc88f74
+SHA1: a7afb1a6d02d0391ac6e0eeaf2696dfacb1ce50c
+SHA256: ff6d9988752fcf15b75fda22fd9c9fd52ed71633d6bf2a06b63be487349c21c1
+Section: scripting
+Description: node and npm and npx for ios
+Author: kalashrah@hotmail.com
+Name: k10node
+

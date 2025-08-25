@@ -61,3 +61,32 @@ Description: node and npm and npx for ios
 Author: kalashrah@hotmail.com
 Name: k10node
 
+Package: jb.k10.k10voice
+Version: 10.0
+Architecture: iphoneos-arm64
+Maintainer: k10
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/jb.k10.k10voice_10.0_iphoneos-arm64.deb
+Size: 223388
+MD5sum: 0fedfaf75a16feed2c1bd927ed046d27
+SHA1: c4daed35b6d8036a9cade6d194d040378ccb861b
+SHA256: 647c2e002d0ebf9730be86e5db02458ff5c026aff3d67d54f13c43d41d4feb96
+Section: System
+Author: k10
+Name: k10voice
+
+Package: jb.k10.k10voice
+Version: 10.0
+Architecture: iphoneos-arm64e
+Maintainer: k10
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/jb.k10.k10voice_10.0_iphoneos-arm64e.deb
+Size: 281848
+MD5sum: c311b36b89bf7fd49dbdd088fcf9d3d1
+SHA1: 95abe8057f7b6bfde24925222f92ab05056efeb2
+SHA256: eefd4dbcfef6e6bd38d0ed8844f3846d7511181f6ecd0703d17f77fbd55f0cdf
+Section: System
+Author: k10
+Name: k10voice
+

@@ -1,7 +1,7 @@
 Origin: k10repo
 Label: k10repo
 Suite: stable
-Icon: https://kalashrah.github.io/newrepo/images/k10-sileo.png
+Icon: https://raw.githubusercontent.com/kalashrah/newrepo/refs/heads/developer/images/k10-sileo.png
 Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm iphoneos-arm64

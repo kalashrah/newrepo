@@ -122,3 +122,19 @@ Section: System
 Author: k10
 Name: k10voice
 
+Package: jb.k10.k10xpp
+Version: 0.0.4-5+debug
+Architecture: iphoneos-arm64e
+Maintainer: k10
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10xpp_0.0.4-5+debug_iphoneos-arm64e.deb
+Size: 3752
+MD5sum: dc9a7f9b14457496baabe9462c468144
+SHA1: fa0aefed4090e7dfe0231cc2276e3002079df68b
+SHA256: f8a49e3c4913a7ef4ce0fbe0db64012b772c14f854d87bc2369ec944b96002ef
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: k10
+Name: k10xpp
+

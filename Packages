@@ -46,6 +46,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: kalashrah@hotmail.com
 Name: k10ent
 
+Package: jb.k10.k10fnd
+Version: 2.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10fnd_2.0-1+debug_iphoneos-arm64e.deb
+Size: 7130
+MD5sum: 06bb9d2d6c93ae03ce69700cc633e8d4
+SHA1: 80ffc1d5b6873cb9b1b6e187598c5ae93cc279ac
+SHA256: 7bff65112a81da5a51d795ecd9b007b9d656acbedcddccaf171cf03431f2f405
+Section: Tweaks
+Description: Enable FLEX network recording first open any app
+Author: kalashrah@hotmail.com
+Name: k10fnd
+
 Package: jb.k10.k10next
 Version: 5.0-1+debug
 Architecture: iphoneos-arm64e

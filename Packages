@@ -62,6 +62,22 @@ Description: Enable FLEX network recording first open any app
 Author: kalashrah@hotmail.com
 Name: k10fnd
 
+Package: jb.k10.k10fnd
+Version: 4.0-8+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10fnd_4.0-8+debug_iphoneos-arm64e.deb
+Size: 54996
+MD5sum: 6fc278f4420fb2011363e9faee40ba0b
+SHA1: 206bb69d88d656bd0e54c91fc9b194ff0a3f1823
+SHA256: e618caa74f37003e0ddb5104d3d133e20eeb4e6eb28266ab0cab022a088b1223
+Section: Tweaks
+Description: Enable FLEX network recording first open any app
+Author: kalashrah@hotmail.com
+Name: k10fnd
+
 Package: jb.k10.k10next
 Version: 5.0-1+debug
 Architecture: iphoneos-arm64e

@@ -1,0 +1,29 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": 4.8,
+    "tabs": [
+        {
+            "tabname": "Description",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionLabelView",
+                    "text": "FLEX Library By Edite k10 Add Files browser Open In Filza Action To Menu Actions"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "4.9"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatability",
+                    "text": "iOS >= 13.0"
+                }
+            ]
+        }
+    ]
+}

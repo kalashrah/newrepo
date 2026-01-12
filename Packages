@@ -222,3 +222,21 @@ Depiction: https://nscake.github.io/package.html?package=libflex
 Name: libFLEX
 Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
+Package: libflex
+Version: 5.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 5448
+Pre-Depends: firmware (>= 9.0)
+Filename: debs/libflex_5.0-1+debug_iphoneos-arm64e.deb
+Size: 1333014
+MD5sum: 3132bc8b4d042f8b5d73de800b043f5e
+SHA1: dff05ed4248c7619ecf0a43ddd4f8e68621556b4
+SHA256: d4ed937da48fa5763e4e5ef5f0e1e20e6645287585f9d31c213fd5693541090f
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: kalashrah@hotmail.com
+Depiction: https://kalashrah.github.io/newrepo/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://kalashrah.github.io/newrepo/depictions/libflex.sileo.json
+

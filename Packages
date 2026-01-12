@@ -109,6 +109,38 @@ Description: node and npm and npx for ios
 Author: kalashrah@hotmail.com
 Name: k10node
 
+Package: jb.k10.k10open
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 164
+Filename: debs/jb.k10.k10open_0.0.1-5+debug_iphoneos-arm64e.deb
+Size: 4032
+MD5sum: 982e83e3184e5ba705ca84690fe11393
+SHA1: 5d108828c04a4467bd07322e967d4a03a018322b
+SHA256: 561781f68229fd8f79fefdc0fc950da66b50ad1250e778e699790941953ce9af
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: kalashrah
+Name: k10open
+
+Package: jb.k10.k10open
+Version: 0.0.2-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 164
+Filename: debs/jb.k10.k10open_0.0.2-2+debug_iphoneos-arm64e.deb
+Size: 4368
+MD5sum: 101f5206fea26631e98e899e4a6f046c
+SHA1: 932d0bcc9a8153310c083daeb05fee3a51bc47f1
+SHA256: daf31767626f77eaffe68316c6fd5f9a5c21bfbdba461726adb7945a5c50c925
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: kalashrah
+Name: k10open
+
 Package: jb.k10.k10voice
 Version: 10.0
 Architecture: iphoneos-arm64

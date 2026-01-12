@@ -186,3 +186,21 @@ Description: An awesome MobileSubstrate tweak!
 Author: k10
 Name: k10xpp
 
+Package: libflex
+Version: 4.8.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 5448
+Pre-Depends: firmware (>= 9.0)
+Filename: debs/libflex_4.8.1-1+debug_iphoneos-arm64e.deb
+Size: 1332944
+MD5sum: a1bb30c76fc5b50e0f5e8d01c0884353
+SHA1: d12996ecadf1c826a4f9df9dc582be79306581e2
+SHA256: 8bbb62cca8c8dacf41f5cc40ae47e2eea6b04635ae5dc1821fad296640e5d1f5
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
+

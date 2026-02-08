@@ -1,0 +1,11 @@
+{
+        Developer: 'kalashrah',
+        AppName: 'k10-PB',
+        ip: '18.119.165.68',
+        baseUrl: 'http://18.119.165.68',
+        localUrl: 'http://172.20.10.7',
+        testType: 'server',
+        awsUrl: 'http://18.119.165.68',
+        vercelUrl: 'https://k10-pb-node.vercel.app',
+        serverUrl: 'vercel'
+}

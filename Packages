@@ -14,6 +14,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: macbook
 Name: macroothide
 
+Package: jb.k10.fkfuckview
+Version: 1.2-10+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.fkfuckview_1.2-10+debug_iphoneos-arm64e.deb
+Size: 8040
+MD5sum: f9a726f7da6c6130e4cca8450a46a513
+SHA1: 8f60e01080c6b89db2849c88bdfc3d8966bae707
+SHA256: 96f642b18c5ea948b376cff1475dcc2ebc793db05e46f37b59e45693b5741aca
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: kalashrah@hotmail.com
+Name: FKFuckView
+
 Package: jb.k10.k10callalert
 Version: 3.0-1+debug
 Architecture: iphoneos-arm64e

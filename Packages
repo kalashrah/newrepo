@@ -186,6 +186,22 @@ Section: System
 Author: k10
 Name: k10voice
 
+Package: jb.k10.k10vpnfuck
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10vpnfuck_1.0-1+debug_iphoneos-arm64e.deb
+Size: 4104
+MD5sum: ad9f60c9305a1bb27e9d3fd9634ee215
+SHA1: 6cfe1fc3ce4ca73847441629e7ce2467563b0d25
+SHA256: 1ff53064800b15d4c0ef90c5562d180876c29c282658a52d314dec5f898fadb7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: kalashrah@hotmail.com
+Name: k10vpnfuck
+
 Package: jb.k10.k10xpp
 Version: 0.0.4-5+debug
 Architecture: iphoneos-arm64e

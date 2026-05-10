@@ -7,5 +7,5 @@
         "testType": "server",
         "awsUrl": "http://51.20.120.214",
         "vercelUrl": "https://k10-pb-node.vercel.app",
-        "serverUrl": "awsUrl"
+        "serverUrl": "vercelUrl"
 }

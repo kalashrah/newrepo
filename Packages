@@ -62,6 +62,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: kalashrah@hotmail.com
 Name: k10callalert
 
+Package: jb.k10.k10callalert
+Version: 4.2-14+debug
+Architecture: iphoneos-arm64e
+Maintainer: kalashrah
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/jb.k10.k10callalert_4.2+debug_iphoneos-arm64e.deb
+Size: 14220
+MD5sum: 21839275555abade6ed36c7dcb3d6b5f
+SHA1: 081564fa53ed4caf1d22c21db91f7aec0e0995c7
+SHA256: a1f796a0f9ecea3f2a7d5bb1f7e4a85724b2b09d0fbe36315ab8064097c3b25e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: kalashrah@hotmail.com
+Name: k10callalert
+
 Package: jb.k10.k10ent
 Version: 1.0-1+debug
 Architecture: iphoneos-arm64e

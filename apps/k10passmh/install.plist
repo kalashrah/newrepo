@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://kalashrah.github.io/newrepo/apps/k10passmh/k10Passmh.ipa</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://play-lh.googleusercontent.com/8L8m3L6d02s2rqw_aPKTmbO5WPOjyfrqUeEnl26UEuDZy0hhBrhVD36TeG7JcNHVwK3w4eBXVAhpQQTWh_t2FA</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://play-lh.googleusercontent.com/8L8m3L6d02s2rqw_aPKTmbO5WPOjyfrqUeEnl26UEuDZy0hhBrhVD36TeG7JcNHVwK3w4eBXVAhpQQTWh_t2FA</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>jb.k10.passmhppappjailed</string>
+        <key>bundle-version</key>
+        <string>8.3.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>k10Passmh</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>

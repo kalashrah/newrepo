@@ -250,6 +250,38 @@ Description: An awesome MobileSubstrate tweak!
 Author: k10
 Name: k10xpp
 
+Package: jb.kalashrah.passmhpp
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: jb.kalashrah
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/jb.kalashrah.passmhpp_1.0.2_iphoneos-arm64e.deb
+Size: 11584
+MD5sum: faa9d53996e76f3c3a357dfffc34932a
+SHA1: 7803c80deab3a111a30554a0d22b40b2fdac5947
+SHA256: d85c0f3e9e402695c83a0b17f7d10dbf1f923c7f6c1cec4cf094b8dc273daf88
+Section: Tweaks
+Description: passmhpp tweak
+Author: jb.kalashrah
+Name: passmhpp
+
+Package: jb.kalashrah.passmhpp
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: jb.kalashrah
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/jb.kalashrah.passmhpp_1.0.2_iphoneos-arm64.deb
+Size: 11450
+MD5sum: fa8129554a2f86dae652aac06fb0be0e
+SHA1: b045c859551a00a1fd9c1400705d3508231cc530
+SHA256: 2294e34bba9af692df2e1169879a117e9a3612ac3a90e1d1dc813ce1e7d64b6e
+Section: Tweaks
+Description: passmhpp tweak
+Author: jb.kalashrah
+Name: passmhpp
+
 Package: libflex
 Version: 4.8.1-1+debug
 Architecture: iphoneos-arm64e

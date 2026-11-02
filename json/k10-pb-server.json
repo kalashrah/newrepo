@@ -5,7 +5,7 @@
         "baseUrl": "http://51.21.128.150",
         "localUrl": "http://192.168.1.147:4000/api/v2",
         "testType": "server",
-        "awsUrl": "http://51.20.120.214",
+        "awsUrl": "http://51.20.120.214/api",
         "vercelUrl": "https://k10-pb-node.vercel.app",
         "serverUrl": "awsUrl"
 }
